@@ -6,8 +6,6 @@ public class Desktop implements HardWare, Software {
 		System.out.println("Print desktop model");
 	}
 
-//Abstract classes are hardwareResources and softwareResources from HardWare and Software
-
 	public void softwareResources() {
 		System.out.println("Print software resources");
 	}
